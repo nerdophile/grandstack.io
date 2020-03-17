@@ -118,7 +118,7 @@ This creates the following graph in Neo4j (note the use of multiple labels):
 
 #### Query field
 
-A query field is addd to the generated `Query` type for each interface. For example, querying using our `Person` interface.
+A query field is added to the generated `Query` type for each interface. For example, querying using our `Person` interface.
 
 ```GraphQL
 query {
